@@ -1,4 +1,4 @@
-# mk-doors
+# ROD Front
 
 npm run start - без минификации js/css/img + запуск сервера
 
